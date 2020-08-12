@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check length/Flashcards.Problems-Check_length.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check length/Flashcards.Problems-Check_length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check length/Flashcards.Problems-Check_length.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check length/Flashcards.Problems-Check_length.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check length/Flashcards.Problems-Check_length.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check length/Flashcards.Problems-Check_length.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Latte/Flashcards.Problems-Latte.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Latte/Flashcards.Problems-Latte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Latte/Flashcards.Problems-Latte.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Latte/Flashcards.Problems-Latte.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Latte/Flashcards.Problems-Latte.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Latte/Flashcards.Problems-Latte.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Line length/Flashcards.Problems-Line_length.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Line length/Flashcards.Problems-Line_length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Line length/Flashcards.Problems-Line_length.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Line length/Flashcards.Problems-Line_length.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Line length/Flashcards.Problems-Line_length.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Line length/Flashcards.Problems-Line_length.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Number of cups/Flashcards.Problems-Number_of_cups.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Number of cups/Flashcards.Problems-Number_of_cups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Number of cups/Flashcards.Problems-Number_of_cups.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Number of cups/Flashcards.Problems-Number_of_cups.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Number of cups/Flashcards.Problems-Number_of_cups.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Number of cups/Flashcards.Problems-Number_of_cups.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reverse me if you can/Flashcards.Problems-Reverse_me_if_you_can.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reverse me if you can/Flashcards.Problems-Reverse_me_if_you_can.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reverse me if you can/Flashcards.Problems-Reverse_me_if_you_can.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reverse me if you can/Flashcards.Problems-Reverse_me_if_you_can.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Reverse me if you can/Flashcards.Problems-Reverse_me_if_you_can.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Reverse me if you can/Flashcards.Problems-Reverse_me_if_you_can.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Safe round/Flashcards.Problems-Safe_round.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Safe round/Flashcards.Problems-Safe_round.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Safe round/Flashcards.Problems-Safe_round.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Safe round/Flashcards.Problems-Safe_round.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Safe round/Flashcards.Problems-Safe_round.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Safe round/Flashcards.Problems-Safe_round.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String length/Flashcards.Problems-String_length.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String length/Flashcards.Problems-String_length.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String length/Flashcards.Problems-String_length.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String length/Flashcards.Problems-String_length.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String length/Flashcards.Problems-String_length.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String length/Flashcards.Problems-String_length.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String or Int/Flashcards.Problems-String_or_Int.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String or Int/Flashcards.Problems-String_or_Int.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String or Int/Flashcards.Problems-String_or_Int.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String or Int/Flashcards.Problems-String_or_Int.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/String or Int/Flashcards.Problems-String_or_Int.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/String or Int/Flashcards.Problems-String_or_Int.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Tea/Flashcards.Problems-Tea.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Tea/Flashcards.Problems-Tea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Tea/Flashcards.Problems-Tea.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Tea/Flashcards.Problems-Tea.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Tea/Flashcards.Problems-Tea.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Tea/Flashcards.Problems-Tea.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Flashcards.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Flashcards.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Flashcards.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Flashcards.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Flashcards.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Flashcards.util.test.iml" />
+    </modules>
+  </component>
+</project>

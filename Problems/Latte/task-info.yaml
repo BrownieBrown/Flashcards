@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    class Latte(val milk: String, cost: Int, volume: Int): Coffee (cost, volume) {
+        override fun toString(): String {
+            (...)
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10201
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 2. Wrong answer
+  time: Tue, 11 Aug 2020 20:30:19 UTC
+record: -1

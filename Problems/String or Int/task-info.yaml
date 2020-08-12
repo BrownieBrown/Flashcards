@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: 'fun isNumber(input: String) // write this function'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9697
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9697">JetBrains
+    Academy</a></html>
+  time: Tue, 11 Aug 2020 17:26:29 UTC
+record: -1

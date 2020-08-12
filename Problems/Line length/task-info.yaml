@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: println(line.length)  // need a fix
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7832
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7832">JetBrains
+    Academy</a></html>
+  time: Mon, 10 Aug 2020 19:56:42 UTC
+record: -1

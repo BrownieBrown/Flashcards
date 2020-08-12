@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    open class Tea(val cost: Int, val volume: Int) {
+        override fun toString(): String {
+            return "cost=$cost, volume=$volume"
+        }
+    }
+
+    class BlackTea(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10200
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10200">JetBrains
+    Academy</a></html>
+  time: Tue, 11 Aug 2020 20:57:16 UTC
+record: -1

@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+        val number = readLine()!!.toInt()
+        println(round(number))
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7626
+status: Solved
+feedback:
+  message: |-
+    <html>[+] Test #1. OK
+    [+] Test #2. OK
+
+    2 of 2 test(s) passed.<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7626">JetBrains Academy</a></html>
+  time: Tue, 11 Aug 2020 09:46:17 UTC
+record: -1

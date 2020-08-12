@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+        val argument = readLine()!!
+        println(check(argument).length)
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7625
+status: Solved
+feedback:
+  message: |-
+    <html>[+] Test #1. OK
+    [+] Test #2. OK
+    [+] Test #3. OK
+
+    3 of 3 test(s) passed.<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7625">JetBrains Academy</a></html>
+  time: Tue, 11 Aug 2020 14:30:30 UTC
+record: -1
